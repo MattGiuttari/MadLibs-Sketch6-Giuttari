@@ -1,0 +1,15 @@
+
+div {
+    width: 100vw;
+    margin: 0 auto;
+}
+
+.noun {
+    color: pink;
+}
+.adjective {
+    color: orangered;
+}
+.verb {
+    color: blue;
+}
